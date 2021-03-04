@@ -1,3 +1,16 @@
 remote_theme: YoussefRaafatNasry/portfolYOU
-title: Kayden Maughan Portfolio
+title: Kayden Maughan
+
 description: Feel free to bookmark this to keep an eye on my upcoming project updates
+
+author:
+  name          : Kayden Maughan
+  image         : https://bit.ly/2Fqe5kQ
+  email         : kadermaughan@gmail.com
+  github        : KaydenRMaughan
+  linkedin      : Kayden Maughan
+  medium        : your_username
+  spotify       : your_username
+  stackoverflow : your_user_id
+  twitter       : @DataKade
+  youtube       : your_channel_name
