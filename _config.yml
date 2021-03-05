@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Kayden R. Maughan
 description         : >-
-                      Carpe Datum
+                     Your friendly neighborhood data scientist
 baseurl             : ""
 repository          : KaydenRMaughan/KaydenRMaughan.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
