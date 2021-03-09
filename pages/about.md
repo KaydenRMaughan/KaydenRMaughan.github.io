@@ -9,11 +9,10 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-> 3 years experience analyzing patterns, exploring createive solutions, and predicting outcomes
-> BS Biostatistics, MS Business Analytics, 3 years in healthcare analytics
-> IBM AI Engineering Professional Certificate (2020)
-> Contact for analytics and visualization consulting quotes
-> I am a dad and husband, a Washington state native, and a Utah Jazz fan.
+* I am a dad and husband, a Washington state native, and a Utah Jazz fan.
+* 3 years + MS experience analyzing patterns, exploring createive solutions, and predicting outcomes
+* IBM AI Engineering Professional Certificate (2020)
+* Contact for analytics and visualization consulting quotes (509)-531-0401
 
 
 
