@@ -18,8 +18,9 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Data Engineering" source=site.data.programming-skills %}
+{% include about/skills.html title="Data Science & Analytics" source=site.data.other-skills %}
+{% include about/skills.html title="Data Visualization" source=site.data.other-skills %}
 </div>
 
 <div class="row">
