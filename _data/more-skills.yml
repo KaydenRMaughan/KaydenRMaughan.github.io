@@ -1,11 +1,11 @@
-- name: R
+- name: R Shiny
   percentage: 90
   color: 
 
-- name: Python
-  percentage: 70
-  color: success
+- name: D3.js
+  percentage: 75
+  color: danger
 
-- name: SQL
+- name: HTML/CSS
   percentage: 80
   color: warning
