@@ -9,18 +9,19 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-* I am a dad and husband, a Washington state native, and a Utah Jazz fan.
-* 3 years + MS experience analyzing patterns, exploring createive solutions, and predicting outcomes
+* Originally from Washington state (the east side, not the pretty/rainy Seattle side)
+* Have eaten enough rice to last a few lifetimes (Ecuador 2014-2016)
+* Watch as much Utah Jazz basketball as I can with my 2 little kids
+
+* 3 years experience + MS Analytics + BS Statistics
 * IBM AI Engineering Professional Certificate (2020)
-* Contact for analytics and visualization consulting quotes (509)-531-0401
-
-
+* Contact for analytics and visualization consulting quotes (509) 531-0401
 
 
 <div class="row">
+{% include about/skills.html title="Data Science" source=site.data.other-skills %}
 {% include about/skills.html title="Data Engineering" source=site.data.programming-skills %}
-{% include about/skills.html title="Data Science & Analytics" source=site.data.other-skills %}
-{% include about/skills.html title="Data Visualization" source=site.data.other-skills %}
+{% include about/skills.html title="Data Viz" source=site.data.more-skills %}
 </div>
 
 <div class="row">
