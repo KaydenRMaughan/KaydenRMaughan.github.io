@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Kayden R. Maughan
 description         : >-
-                     Hi, check out my dashboards, projects, code, and blog. 
-                     If you have a question you want to answer together, contact me below.
+                     Your friendly neighborhood stats guy.
+                     3 years data scientist + MS Analytics + BS Statistics
 baseurl             : ""
 repository          : KaydenRMaughan/KaydenRMaughan.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
