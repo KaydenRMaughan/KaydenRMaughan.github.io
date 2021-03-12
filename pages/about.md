@@ -7,15 +7,14 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi I am Kade:wave,<br>
 
 * Originally from Washington state (the east side, not the pretty/rainy Seattle side)
 * Have eaten enough rice to last a few lifetimes (Ecuador 2014-2016)
 * Watch as much Utah Jazz basketball as I can with my 2 little kids
 
-* 3 years experience + MS Analytics + BS Statistics
 * IBM AI Engineering Professional Certificate (2020)
-* Contact for analytics and visualization consulting quotes (509) 531-0401
+* Contact for analytics consulting and visualization development quotes (509) 531-0401
 
 
 <div class="row">
