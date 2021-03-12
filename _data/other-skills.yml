@@ -1,7 +1,11 @@
-- name: R Shiny
+- name: R
   percentage: 95
-  color: info
+  color: 
 
-- name: Tensorflow
-  percentage: 60
+- name: Python
+  percentage: 70
   color: success
+
+- name: SQL
+  percentage: 80
+  color: warning
