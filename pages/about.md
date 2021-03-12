@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am Kade:wave,<br>
+Hi I am Kade,<br>
 
 * Originally from Washington state (the east side, not the pretty/rainy Seattle side)
 * Have eaten enough rice to last a few lifetimes (Ecuador 2014-2016)
