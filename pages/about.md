@@ -18,8 +18,8 @@ Hi I am Kade,<br>
 
 
 <div class="row">
-{% include about/skills.html title="Data Science" source=site.data.other-skills %}
-{% include about/skills.html title="Data Engineering" source=site.data.programming-skills %}
+{% include about/skills.html title="Statisical Programming" source=site.data.other-skills %}
+{% include about/skills.html title="Machine Learning" source=site.data.programming-skills %}
 {% include about/skills.html title="Data Viz" source=site.data.more-skills %}
 </div>
 
