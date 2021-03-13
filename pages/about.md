@@ -7,12 +7,20 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I am Kade,<br>
+
+* Originally from Washington state (the east side, not the pretty/rainy Seattle side)
+* Have eaten enough rice to last a few lifetimes (Ecuador 2014-2016)
+* Watch as much Utah Jazz basketball as I can with my 2 little kids
+
+* IBM AI Engineering Professional Certificate (2020)
+* Contact for analytics consulting and visualization development quotes (509) 531-0401
+
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Statisical Programming" source=site.data.other-skills %}
+{% include about/skills.html title="Data Science & Analytics" source=site.data.programming-skills %}
+{% include about/skills.html title="Data Visualization" source=site.data.more-skills %}
 </div>
 
 <div class="row">

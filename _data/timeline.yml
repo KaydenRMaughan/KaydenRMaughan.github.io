@@ -1,14 +1,14 @@
-- title: Data Scientist, University of Utah Health
+- title: Data Scientist 
   from: 2018
   to: present
-  description: Internal analytics consultant for organization strategy team. Building R Shiny dashboards to influence decision making.
+  description: University of Utah Health #Internal analytics consultant for organization strategy team. Building R Shiny dashboards to influence decision making.
 
-- title: MS Business Analytics, University of Utah
+- title: MS Business Analytics
   from: 2016
   to: 2018
-  description: Machine Learning/AI, Data Mining, NLP, Big Data Analytics (Hadoop + Spark), Strategy, Finance
-               
- - title: BS Biostatistics, Brigham Young University
-   from: 2016  
-   to: 2018
-   description: Bayesian Methods, Epidemiology, Regression, Bioinformatics             
+  description: University of Utah #Machine Learning/AI, Data Mining, NLP, Big Data Analytics (Hadoop + Spark), Strategy, Finance
+
+- title: BS Bisotatistics
+  from: 2016
+  to: 2018
+  description: Brigham Young University #Regression, Bayesian Methods, Epidemiology, Bioinformatics

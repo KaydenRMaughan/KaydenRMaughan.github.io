@@ -1,11 +1,12 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
+- name: Data Mining
   percentage: 80
-  color:
+  color: info
 
-- name: Python
-  percentage: 70
+- name: ML / AI
+  percentage: 60
+  color: success
+
+- name: NLP
+  percentage: 60
   color: dark
+  
