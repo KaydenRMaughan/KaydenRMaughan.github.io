@@ -13,8 +13,6 @@ Hi I am Kade,<br>
 * Have eaten enough rice to last a few lifetimes (Ecuador 2014-2016)
 * Watch as much Utah Jazz basketball as I can with my 2 little kids
 
-* IBM AI Engineering Professional Certificate (2020)
-* Contact for analytics consulting and visualization development quotes (509) 531-0401
 
 
 <div class="row">
@@ -25,4 +23,6 @@ Hi I am Kade,<br>
 
 <div class="row">
 {% include about/timeline.html %}
+* IBM AI Engineering Professional Certificate (2020)
+* Contact for analytics consulting and visualization development quotes (509) 531-0401
 </div>
