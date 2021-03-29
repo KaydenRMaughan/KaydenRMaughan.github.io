@@ -7,14 +7,14 @@ weight: 3
 
 # **About Me**
 
-* Washington state native (the east side, not the Seattle side)
-* Have eaten enough rice to last a few lifetimes (Ecuador 2014-2016)
-* Watch as much Utah Jazz basketball as I can with my 2 little kids
+* Eastern Washington native
+* Lived on the coast of Ecuador for 2 years
+* Hobbies include : Watching Utah Jazz basketball, New England Patriots football, and listening to Panic! at the Disco
 
 <div class="row">
-{% include about/skills.html title="Statisical Programming" source=site.data.other-skills %}
-{% include about/skills.html title="Data Science & Analytics" source=site.data.programming-skills %}
-{% include about/skills.html title="Data Visualization" source=site.data.more-skills %}
+{% include about/skills.html title="Stat. Programming" source=site.data.other-skills %}
+{% include about/skills.html title="Analytic Methods" source=site.data.programming-skills %}
+{% include about/skills.html title="Data Viz" source=site.data.more-skills %}
 </div>
 
 <u>Professional Certificates</u>
