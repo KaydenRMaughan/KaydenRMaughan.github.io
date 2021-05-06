@@ -13,8 +13,6 @@ weight: 3
 
 <div class="row">
 {% include about/skills.html title="Stat. Programming" source=site.data.other-skills %}
-{% include about/skills.html title="Analytic Methods" source=site.data.programming-skills %}
-{% include about/skills.html title="Data Viz" source=site.data.more-skills %}
 </div>
 
 <u>Professional Certificates</u>
