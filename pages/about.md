@@ -15,11 +15,9 @@ weight: 3
 {% include about/skills.html title="Stat. Programming" source=site.data.other-skills %}
 </div>
 
-<u>Professional Certificates</u>
+<u>Other</u>
 * IBM AI Engineering Certificate (2020)
-* NYU Machine Learning for Finance (2021)
-* DeepLearning.AI Deep Learning Certificate (2021)
-* AI for Medicine (2022)
+
 
 <div class="row">
 {% include about/timeline.html %}
