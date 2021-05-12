@@ -4,7 +4,7 @@ description         : >-
                      Your friendly neighborhood statistician. 3 years exp.+MS Analytics+BS Statistics
 baseurl             : ""
 repository          : KaydenRMaughan/KaydenRMaughan.github.io
-remote_theme        : YoussefRaafatNasry/portfolYOU@v1.0.0
+remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.1
 
 ### Plugins ###
 plugins:
