@@ -1,14 +1,14 @@
 - title: Data Scientist 
   from: 2018
   to: present
-  description: University of Utah Health; Health system expansion, market analytics, clinical finance, data visualization, mentor
+  description: University of Utah Health - Strategy
 
-- title: MS Business Analytics
+- title: MS Analytics
+  from: 2018
+  to: 2019
+  description: University of Utah - Emphases: Applied Machine Learning, Strategy, Finance
+
+- title: BS Statistics
   from: 2016
   to: 2018
-  description: University of Utah; Applied Machine Learning, Big Data Analytics (Hadoop + Spark)
-
-- title: BS Bisotatistics
-  from: 2016
-  to: 2018
-  description: Brigham Young University; Bayesian Methods, Regression, Epidemiology, Bioinformatics
+  description: Brigham Young University - Emphases: Biostatistics, Epidemiology
