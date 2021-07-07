@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Kayden R. Maughan
 description         : >-
-                     Your friendly neighborhood statistician
+                     Your friendly neighborhood statistician 
+                   
 baseurl             : ""
 repository          : KaydenRMaughan/KaydenRMaughan.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
