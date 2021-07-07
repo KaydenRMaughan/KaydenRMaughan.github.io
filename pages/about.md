@@ -9,13 +9,16 @@ weight: 3
 
 * Eastern Washington native
 * Lived on the coast of Ecuador for 2 years
-* Hobbies include : Watching Utah Jazz basketball, New England Patriots football, and listening to Panic! at the Disco
+* Utah Jazz season ticket holder
+* Panic! at the Disco fan
 
 <div class="row">
-{% include about/skills.html title="Stat. Programming" source=site.data.other-skills %}
+{% include about/skills.html title="Tools" source=site.data.other-skills %}
+{% include about/skills.html title="Skills" source=site.data.more-skills %}
 </div>
 
 <u>Other</u>
+* Duke Intro to Machine Learning Certificate (2021)
 * IBM AI Engineering Certificate (2020)
 
 
