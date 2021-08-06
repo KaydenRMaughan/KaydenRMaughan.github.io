@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Kayden R. Maughan
-description         : >-
-                     Your friendly neighborhood statistician 
+#description         : 
+                     
+                     
                    
 baseurl             : ""
 repository          : KaydenRMaughan/KaydenRMaughan.github.io
@@ -24,11 +25,13 @@ author:
   name              : Kayden Maughan
   image             : kade.png
   
-  email             : kadermaughan@gmail.com
-  linkedin          : kayden-maughan
-  kaggle            : kademaughan
-  twitter           : DataKade
   github            : KaydenRMaughan
+  linkedin          : kayden-maughan
+  twitter           : DataKade
+  kaggle            : kademaughan
+  email             : kadermaughan@gmail.com
+  
+  #instagram         : data_kade
   
 #  behance           : your_username
 # dribbble          : your_username
@@ -36,7 +39,7 @@ author:
 # facebook          : your_username
   
 # gitlab            : KaydenRMaughan
-# instagram         : your_username
+
   
   
 #  medium            : your_username
