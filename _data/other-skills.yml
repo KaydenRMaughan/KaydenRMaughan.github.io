@@ -3,9 +3,9 @@
   color: 
 
 - name: Python
-  percentage: 80
+  percentage: 75
   color: success
 
 - name: SQL
-  percentage: 70
+  percentage: 75
   color: warning
