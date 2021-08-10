@@ -16,13 +16,12 @@ weight: 3
 {% include about/skills.html title="Skills" source=site.data.more-skills %}
 </div>
 
-<u>Other</u>
+<div class="row">
+{% include about/timeline.html %}
+</div>
+
+## **Professional Certifications**
 * CAP (Certified Analytics Professional) (2022)
 * SDS (Senior Data Scientist - DASCA) (2022)
 * IBM Machine Learning Certificate (2021)
 * IBM AI Engineering Certificate (2020)
-
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
