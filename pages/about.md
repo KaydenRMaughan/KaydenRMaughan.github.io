@@ -5,11 +5,10 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
-
+## **About me**
 * Eastern Washington native
 * Lived on the coast of Ecuador for 2 years
-* Utah Jazz season ticket holder
+* Utah Jazz basketball and New England Patriot football
 * Panic! at the Disco fan
 
 <div class="row">
@@ -18,7 +17,9 @@ weight: 3
 </div>
 
 <u>Other</u>
-* Duke Intro to Machine Learning Certificate (2021)
+* CAP (Certified Analytics Professional) (2022)
+* SDS (Senior Data Scientist - DASCA) (2022)
+* IBM Machine Learning Certificate (2021)
 * IBM AI Engineering Certificate (2020)
 
 
