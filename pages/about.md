@@ -12,14 +12,15 @@ weight: 3
 * Panic! at the Disco fan
 
 <div class="row">
-{% include about/skills.html title="Tools" source=site.data.other-skills %}
-</div>
-
+{% include about/skills.html title="" source=site.data.other-skills %}
 ## **Professional Certifications**
 * CAP (Certified Analytics Professional) (2022)
 * SDS (Senior Data Scientist - DASCA) (2022)
 * IBM Machine Learning Certificate (2021)
 * IBM AI Engineering Certificate (2020)
+</div>
+
+
 
 
 <div class="row">
