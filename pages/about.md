@@ -13,7 +13,6 @@ weight: 3
 
 <div class="row">
 {% include about/skills.html title="Tools" source=site.data.other-skills %}
-{% include about/skills.html title="Skills" source=site.data.more-skills %}
 </div>
 
 <div class="row">
