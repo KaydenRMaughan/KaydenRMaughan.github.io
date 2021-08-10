@@ -9,3 +9,11 @@
 - name: SQL
   percentage: 75
   color: warning
+ 
+- name: R Shiny
+  percentage: 90
+  color: 
+
+- name: d3.js
+  percentage: 70
+  color: danger
