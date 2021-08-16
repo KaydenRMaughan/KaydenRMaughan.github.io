@@ -8,7 +8,7 @@ weight: 3
 ## **About me**
 * Eastern Washington native
 * Lived on the coast of Ecuador for 2 years
-* Utah Jazz basketball and New England Patriot football
+* Utah Jazz basketball & New England Patriot football
 * Panic! at the Disco fan
 
 <div class="row">
@@ -16,9 +16,6 @@ weight: 3
 </div>
 
 ## **Professional Certifications**
-* CAP (Certified Analytics Professional) (2022)
-* SDS (Senior Data Scientist - DASCA) (2022)
-* IBM Machine Learning Certificate (2021)
 * IBM AI Engineering Certificate (2020)
 
 <div class="row">
