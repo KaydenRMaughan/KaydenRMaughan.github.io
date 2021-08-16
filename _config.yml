@@ -18,7 +18,7 @@ plugins:
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
- # - pages/index.md
+  - pages/index.md
 
 
 ### Author Info ###
@@ -32,17 +32,11 @@ author:
   kaggle            : kademaughan
   email             : kadermaughan@gmail.com
   
-  #instagram         : data_kade
-  
+#  instagram         : data_kade
 #  behance           : your_username
 # dribbble          : your_username
-  
 # facebook          : your_username
-  
 # gitlab            : KaydenRMaughan
-
-  
-  
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
