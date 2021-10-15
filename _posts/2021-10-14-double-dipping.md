@@ -1,8 +1,8 @@
 ---
 title: Double Dipping
 tags: machine learning, statistics
-style: 
-color: 
+style: border
+color: danger
 description: Should you normalize data before you split it?
 ---
 
