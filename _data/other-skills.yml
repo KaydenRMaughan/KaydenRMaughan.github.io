@@ -12,7 +12,7 @@
 
 - name: R Shiny
   percentage: 95
-  color: light
+  color: danger
   
 - name: Tableau
   percentage: 75
