@@ -13,6 +13,7 @@ weight: 3
 * NFL & NBA fan (Go Pats & Go Jazz!)
 * Patiently awaiting Panic! at the Disco's next tour date announcement
 
+<!---
 <div class="row">
 {% include about/skills.html title="" source=site.data.other-skills %}
 </div>
@@ -24,3 +25,4 @@ weight: 3
 {% include about/timeline.html %}
 </div>
 
+--->
