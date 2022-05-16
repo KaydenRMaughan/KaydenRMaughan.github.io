@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 weight: 3
 ---
 
 ## **About me**
-* Eastern Washington native
-* Lived on the coast of Ecuador for 2 years
-* Utah Jazz basketball & New England Patriot football
-* Panic! at the Disco fan
+
+* Eastern WA native
+* Spent 2 years in coastal Ecuador
+* Dad joke enthusiast
+* NFL & NBA fan (Go Pats & Go Jazz!)
+* Patiently awaiting Panic! at the Disco's next tour date announcement
 
 <div class="row">
 {% include about/skills.html title="" source=site.data.other-skills %}
