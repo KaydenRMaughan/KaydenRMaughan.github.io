@@ -2,7 +2,7 @@
 title: "Deep Medicine" Review
 tags: [machine learning, healthcare, book review]
 style: border
-color: primary
+color: danger
 description: Deep Medicine Review
 ---
 
