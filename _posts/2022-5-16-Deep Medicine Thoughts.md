@@ -1,5 +1,5 @@
 ---
-title: "Deep Medicine" Review
+title: Book Blog - Deep Medicine
 tags: [machine learning, healthcare, book review]
 style: border
 color: danger
