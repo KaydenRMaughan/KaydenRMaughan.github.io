@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STAT 121
-permalink: /about/
+permalink: /stat121/
 weight: 4
 ---
 
