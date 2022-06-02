@@ -13,6 +13,8 @@ weight: 1
 * NFL & NBA fan (Go Pats & Go Jazz!)
 * Patiently awaiting Panic! at the Disco's next tour date announcement
 
+![alt text](https://bit.ly/2TOsM7B "Building Image")
+
 <!---
 <div class="row">
 {% include about/skills.html title="" source=site.data.other-skills %}
