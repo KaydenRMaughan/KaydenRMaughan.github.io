@@ -13,7 +13,7 @@ weight: 1
 * NFL & NBA fan (Go Pats & Go Jazz!)
 * Patiently awaiting Panic! at the Disco's next tour date announcement
 
-![alt text](https://github.com/KaydenRMaughan/KaydenRMaughan.github.io/blob/master/resume.PNG "Resume")
+![alt text](https://github.com/KaydenRMaughan/KaydenRMaughan.github.io/blob/master/resume.PNG)
 
 <!---
 <div class="row">
