@@ -13,18 +13,22 @@ weight: 1
 * Trying to keep up with my 3 kiddos
 * Cheering on the Utah Jazz and the New England Patriots
 
-![alt text](../resume.PNG)
-
-<!---
 <div class="row">
 {% include about/skills.html title="" source=site.data.other-skills %}
 </div>
 
-## **Professional Certifications**
-* IBM AI Engineering Certificate (2020)
 
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+
+<!---
+![alt text](../resume.PNG)
+
+
+## **Professional Certifications**
+* IBM AI Engineering Certificate (2020)
+
 
 --->
