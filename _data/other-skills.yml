@@ -1,20 +1,11 @@
-- name: R
+- name: R (tidymodels, R Shiny,data.table)
   percentage: 90
   color: info
 
-- name: Python
+- name: Python (scikit-learn, Tensorflow, pyTorch, pySpark)
   percentage: 80
   color: success
 
 - name: SQL
-  percentage: 80
+  percentage: 70
   color: warning
-
-- name: R Shiny
-  percentage: 95
-  color: danger
-  
-- name: Tableau
-  percentage: 75
-  color: dark
-  
