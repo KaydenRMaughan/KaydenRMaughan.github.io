@@ -1,12 +1,18 @@
-# Local Site Directories
+# Quarto build output and caches
+/.quarto/
 _site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+*_files/
 
-# Ruby Gems
-.bundle
-Gemfile.lock
+# Python / R tooling
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.Rproj.user/
+.Rhistory
 
-# Log Files
+# OS / logs
+.DS_Store
+Thumbs.db
 *.log
+
+**/*.quarto_ipynb

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+listing:
+  contents: "*.qmd"
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [image, title, description, categories]
+---
+
+A project is published here only when it is finished: public repository, reproducible setup, results and limitations, a working demo, and a write-up. Work in progress does not get a card.

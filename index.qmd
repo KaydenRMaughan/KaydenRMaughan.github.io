@@ -1,0 +1,20 @@
+---
+title: "Kayden R. Maughan"
+about:
+  template: solana
+  image: images/kade.png
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/KaydenRMaughan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kayden-maughan
+---
+
+I build trustworthy data science and AI systems for healthcare, operations, education, and decision intelligence.
+
+My background is in causal inference, forecasting, and healthcare operations analytics. The projects here extend that into modern AI and machine learning.
+
+[See projects](projects/index.qmd) · [Work with me](consulting.qmd)
