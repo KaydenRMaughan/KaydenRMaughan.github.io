@@ -33,8 +33,8 @@ Data science leader with experience across statistics, machine learning, healthc
 
 ## Areas of expertise
 
-- **Methods:** causal inference, forecasting, classification, machine learning, Markov models and multi-touch attribution, natural language processing, computer vision
-- **Healthcare and operations:** hospital census and patient flow, discharge and post-acute care planning, market and growth strategy, clinical finance
+- **Methods:** causal inference, forecasting, classification, machine learning, NLP, computer vision, Markov models and multi-touch attribution
+- **Healthcare and operations:** hospital census and patient flow, discharge and post-acute planning, market and growth strategy, clinical finance
 - **Leadership:** technical direction, team leadership and mentoring, stakeholder alignment, executive communication
 - **Tools and languages:** Python, R, SQL, Snowflake; fluent in Spanish
 
@@ -44,7 +44,7 @@ Data science leader with experience across statistics, machine learning, healthc
 
 **Data Science Manager** · Feb 2026 – present
 
-- Lead four data scientists delivering predictive, prescriptive, and diagnostic analytics across a health system of 50+ hospitals and 1,000+ clinics.
+- Lead four data scientists delivering predictive, prescriptive, and diagnostic analytics across 50+ hospitals and 1,000+ clinics.
 - Set technical direction, own delivery, and align stakeholders; mentor the team and raise analytical fluency among technical and non-technical partners.
 - Contribute hands-on to forecasting models, causal inference frameworks, AI applications, and decision support systems.
 
@@ -69,11 +69,13 @@ Data science leader with experience across statistics, machine learning, healthc
 
 ## Teaching
 
-- **University of Utah**, Adjunct Professor (2025): Data Mining, MS in Business Analytics
+- **University of Utah**, Adjunct Professor (2025, one semester): Data Mining, MS in Business Analytics
 - **Brigham Young University**, Adjunct Professor (2022 – 2025): Statistics (undergraduate) and Data Analysis (MPA)
 - **Western Governors University**, Subject Matter Expert (2024 – present)
 
-## Education
+## Education and certifications
 
 - **MS, Business Analytics**, University of Utah (2019)
 - **BS, Biostatistics**, Brigham Young University (2018)
+- **AI Engineering Certificate**, IBM (2020)
+- **Machine Learning for Trading**, Google Cloud and New York Institute of Finance (2021)
