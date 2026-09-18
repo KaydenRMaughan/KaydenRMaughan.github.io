@@ -10,7 +10,10 @@ about:
       href: https://github.com/KaydenRMaughan
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/kayden-maughan
+      href: https://www.linkedin.com/in/kayden-maughan/
+    - icon: bar-chart-line
+      text: Kaggle
+      href: https://www.kaggle.com/kademaughan
 ---
 
 I build trustworthy data science and AI systems for healthcare, operations, education, and decision intelligence.
