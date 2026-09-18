@@ -2,4 +2,31 @@
 title: "Consulting"
 ---
 
-Content in progress.
+I help organizations move from data products to decision products: analyses and tools that change what leaders decide, not just what they see.
+
+## What I help with
+
+**Decision-focused analytics.** Statistics, machine learning, and critical thinking applied to business problems at four levels:
+
+- **Descriptive:** displaying the data and discovering trends
+- **Diagnostic:** understanding key drivers, examining differences, and estimating impact
+- **Predictive:** forecasting future trends and estimating likelihoods
+- **Prescriptive:** providing recommendations and planning scenarios
+
+**Automated analysis and reporting.** Scripted solutions in R, Python, and SQL that replace repetitive manual analysis and reporting.
+
+**Interactive data storytelling.** Turning intricate analyses into interactive, compelling narratives and visualizations for decision-makers, built with R Shiny and Streamlit.
+
+**Training and education.** Building critical thinking, problem solving, and statistical skills for technical and non-technical teams.
+
+## Who I work with
+
+Small and mid-size organizations that already have data infrastructure and want to move toward advanced analytics and decision-making products.
+
+## How I work
+
+Clear deliverables, agreed timelines, and frequent, plain-language communication.
+
+## Get in touch
+
+The best way to reach me is a message on [LinkedIn](https://www.linkedin.com/in/kayden-maughan/).

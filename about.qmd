@@ -2,53 +2,19 @@
 title: "About"
 ---
 
-I'm a data science leader with a mix of experience in statistics, machine learning, healthcare strategy, operations, finance, and clinical research. I lead a team of four data scientists and stay hands-on as a player-coach: I set direction, mentor the team, and turn technically demanding work into clear, useful decisions.
+I'm a data science leader working across statistics, machine learning, healthcare strategy, and operations. I lead a team of four data scientists and stay hands-on as a player-coach: I set direction, mentor the team, and turn technically demanding work into clear, useful decisions.
 
-My core work is forecasting, causal inference, classification, and decision support in large healthcare systems. I'm extending it into modern AI and machine learning, and the projects on this site are where that shows up.
+My core work is forecasting, causal inference, classification, and decision support in a large healthcare system. I'm extending it into modern AI and machine learning, and the projects on this site are where that shows up.
 
-## Experience
+## How I work
 
-### Providence
+- **Insight that influences decisions.** Creative statistical approaches, automated reporting, and interactive data stories aimed at strategic problem solving.
+- **Clear commitments.** Defined deliverables and timelines, with frequent, plain-language communication.
+- **Teaching as part of the job.** I mentor data scientists at work and teach statistics and data analysis at the university level.
 
-**Data Science Manager** · Feb 2026 – present
+## More
 
-- Lead a team of four data scientists delivering predictive, prescriptive, and diagnostic analytics across a health system with 50+ hospitals and 1,000+ clinics.
-- Own technical direction, project delivery, and stakeholder alignment; mentor and develop technical talent across technical and non-technical stakeholders.
-- Contribute as a player-coach on forecasting models, causal inference frameworks, AI applications, and decision support systems.
-
-**Senior Data Scientist / Biostatistician** · Aug 2023 – Feb 2026
-
-- Built a causal inference engine and platform that scales analyses identifying and ranking key drivers of quality and operational performance.
-- Developed production-grade forecasting infrastructure for financial, operational, and utilization metrics and planning.
-- Deployed classification models estimating the likelihood of post-acute care destination to improve discharge planning.
-- Used AI summarization to automate analysis of time-series patterns and assist operational decision making.
-
-### University of Utah Health
-
-**Data Scientist** · Sep 2021 – Aug 2023
-
-- Influenced leadership to relocate a planned ambulatory clinic and expand into a 180-bed hospital, using market analytics and strategic storytelling.
-- Reimagined patient flow and downstream margin modeling using multi-touch attribution, including Markov chains and game theory.
-- Predicted overnight and ICU admission, readmission, length of stay, and discharge disposition to inform hospital census.
-
-**Senior Strategy Analyst / Strategy Analyst** · May 2018 – Sep 2021
-
-- Delivered data-driven recommendations on growth, access, market strategy, and clinical finance as an internal consultant to leaders.
-
-## Teaching
-
-- **University of Utah**, Adjunct Professor (2025): Data Mining, MS in Business Analytics
-- **Brigham Young University**, Adjunct Professor (2022 – 2025): Statistics (undergraduate) and Data Analysis (MPA)
-- **Western Governors University**, Subject Matter Expert (2024 – present)
-
-## Education
-
-- **MS, Business Analytics**, University of Utah (2019)
-- **BS, Biostatistics**, Brigham Young University (2018)
-
-## Tools
-
-Python, R, SQL, and Snowflake, applied to machine learning, computer vision, and natural language processing. Fluent in Spanish.
+See my [resume](resume.qmd) ([PDF](resume.pdf)), or read about [working with me](consulting.qmd).
 
 ::: {.callout-note appearance="minimal"}
 Views and projects on this site are my own and do not represent my employer.
