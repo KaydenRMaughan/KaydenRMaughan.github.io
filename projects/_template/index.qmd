@@ -1,0 +1,94 @@
+---
+title: "Project name"
+description: "One sentence: the problem, the method, and the result."
+date: 2026-01-01
+categories: [Machine Learning and Forecasting]
+image: thumbnail.png
+draft: true
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+<!--
+HOW TO USE
+Copy this folder to projects/<project-slug>/, fill in each section, and delete each prompt as you go.
+Create the page only once the project meets the Definition of Done: public repository, reproducible
+setup, clear README, results and limitations, a working demo or screenshots, and this page.
+Draft the write-up in the project's own README until then.
+
+`draft: true` only hides a page from the Projects listing, search, and sitemap. The page is still
+built at its URL and its source is public, so never put anything in a draft you would not publish.
+Set `draft: false` and add a thumbnail.png when the project is done.
+
+CATEGORIES (pick one or two): AI and LLM Systems | Machine Learning and Forecasting |
+Computer Vision and Deep Learning | Simulation, Optimization, and Reinforcement Learning |
+NLP and Knowledge Systems | Teaching, Content, and Consulting Tools
+
+GROUND RULES: public, synthetic, or licensed data only; no PHI or proprietary work data.
+Healthcare demos are educational, not clinical decision tools. Finance work is research and
+education only, never investment advice. Report measured results only.
+-->
+
+## Summary
+
+<!-- Three sentences: what it is, who it is for, and the headline result. -->
+
+## Users and problem context
+
+<!-- Who uses this, what decision or task it supports, and what they do today without it. -->
+
+## Why it matters
+
+<!-- The decision or outcome it enables, and the cost of getting it wrong. -->
+
+## Demo
+
+<!-- Screenshots or a short walkthrough, plus the link to the live app. -->
+
+## Data
+
+<!-- Source, license, size, time window, and what was excluded. -->
+
+## Technical stack
+
+<!-- Only what the project needs, and why each piece is there. -->
+
+## Methods
+
+<!-- The approach and the reasoning behind it. State the estimand or prediction target. -->
+
+## Baseline and alternatives
+
+<!-- The simplest credible baseline, and what else was considered and why it was set aside. -->
+
+## Evaluation
+
+<!-- Metrics beyond accuracy, the validation design, and calibration or uncertainty where relevant. -->
+
+## Error and failure analysis
+
+<!-- Where it fails, on which subgroups or regimes, and why. -->
+
+## Results
+
+<!-- Measured numbers, with intervals, against the baseline. -->
+
+## Responsible use and limitations
+
+<!-- Intended use, out-of-scope use, fairness and calibration caveats, and data limitations. -->
+
+## What I learned
+
+<!-- Trade-offs, surprises, and what I would change. -->
+
+## Next steps
+
+<!-- Scope deliberately deferred. -->
+
+## Links
+
+- Repository: [GitHub](https://github.com/KaydenRMaughan/REPO-NAME)
+- Live demo: [App](https://example.com)
+- Write-up: [Article](https://example.com)

@@ -23,9 +23,15 @@ quarto preview   # live-reloading local server
 quarto render    # build into _site/
 ```
 
-## Editorial rule
+## Adding a project
 
-A project gets a card on the Projects page only when it is finished. Work in progress is not listed.
+A project gets a page only when it is finished: public repository, reproducible setup, clear README, results and limitations, and a working demo or screenshots. Work in progress is not listed.
+
+1. Copy `projects/_template/` to `projects/<slug>/`. Folders that start with `_` are not built.
+2. Fill in the 15 sections and delete each prompt as you go.
+3. Set `draft: false` and add a `thumbnail.png`.
+
+`draft: true` only hides a page from the listing, search, and sitemap. The page is still built at its URL, so keep write-ups in the project's own README until the project is done.
 
 ## History
 
