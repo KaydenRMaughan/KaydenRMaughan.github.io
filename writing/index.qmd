@@ -1,0 +1,10 @@
+---
+title: "Writing"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: false  # turn on once there are several posts to filter
+---
+
+Technical notes and write-ups. The first posts are in progress.

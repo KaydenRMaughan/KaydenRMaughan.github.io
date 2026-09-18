@@ -4,7 +4,7 @@ listing:
   contents: "*/index.qmd"
   type: grid
   sort: "date desc"
-  categories: true
+  categories: false  # turn on once there are several projects to filter
   fields: [image, title, description, categories]
 ---
 

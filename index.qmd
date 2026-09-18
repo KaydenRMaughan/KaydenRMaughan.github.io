@@ -1,5 +1,5 @@
 ---
-pagetitle: "Kayden R. Maughan · Data Science Leader"
+pagetitle: "Data Science Leader"
 page-layout: full
 title-block-style: none
 ---
@@ -10,7 +10,7 @@ title-block-style: none
     <div class="hero-copy">
       <p class="hero-eyebrow">Kayden R. Maughan · Data science leader</p>
       <h1 class="hero-title">I build <span class="accent">trustworthy data science and AI systems</span> for healthcare, operations, education, and decision intelligence.</h1>
-      <p class="hero-lede">Biostatistician by training, health-system data science leader by trade. I turn rigorous analysis (causal inference, forecasting, decision support) into decisions leaders act on.</p>
+      <p class="hero-lede">Biostatistician by training, data science leader by trade. Most of my experience is in healthcare, and the methods travel: I turn rigorous analysis (causal inference, forecasting, decision support) into decisions leaders act on.</p>
       <div class="hero-cta">
         <a class="btn btn-primary btn-lg" href="consulting.html">Work with me</a>
         <a class="btn btn-outline-primary btn-lg" href="resume.html">View resume</a>
@@ -22,20 +22,6 @@ title-block-style: none
     </div>
   </div>
 
-  <div class="proof">
-    <div class="proof-item">
-      <span class="proof-num">50+</span>
-      <span class="proof-label">hospitals and 1,000+ clinics in the health system where I lead data science</span>
-    </div>
-    <div class="proof-item">
-      <span class="proof-num">4</span>
-      <span class="proof-label">data scientists I lead, staying hands-on as a player-coach</span>
-    </div>
-    <div class="proof-item">
-      <span class="proof-num">180-bed</span>
-      <span class="proof-label">hospital expansion I influenced with market analytics and storytelling</span>
-    </div>
-  </div>
 </section>
 
 <section class="value">
@@ -43,15 +29,15 @@ title-block-style: none
   <div class="value-grid">
     <div class="value-card">
       <h3>Forecasts planners trust</h3>
-      <p>Production-grade forecasting for financial, operational, and utilization planning.</p>
+      <p>Forecasting for financial, operational, and utilization planning, built to hold up in production.</p>
     </div>
     <div class="value-card">
       <h3>Drivers, not correlations</h3>
-      <p>A causal inference engine that identifies and ranks the drivers of quality and operational performance.</p>
+      <p>Causal methods that separate what moves an outcome from what merely moves with it.</p>
     </div>
     <div class="value-card">
       <h3>Decisions leaders act on</h3>
-      <p>Decision support and clear storytelling that turned analysis into a hospital-scale decision.</p>
+      <p>Decision support and clear storytelling that move leaders from analysis to action.</p>
     </div>
   </div>
 </section>

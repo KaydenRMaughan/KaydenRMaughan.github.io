@@ -12,6 +12,8 @@ website:
         text: Home
       - href: projects/index.qmd
         text: Projects
+      - href: writing/index.qmd
+        text: Writing
       - href: about.qmd
         text: About
       - href: consulting.qmd

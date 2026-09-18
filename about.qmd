@@ -4,7 +4,7 @@ title: "About"
 
 I'm a data science leader working across statistics, machine learning, healthcare strategy, and operations. I lead a team of four data scientists and stay hands-on as a player-coach: I set direction, mentor the team, and turn technically demanding work into clear, useful decisions.
 
-My core work is forecasting, causal inference, classification, and decision support in a large healthcare system. I'm extending it into modern AI and machine learning, and the projects on this site are where that shows up.
+Most of my experience is in healthcare, where I've worked on forecasting, causal inference, classification, and decision support. The methods aren't specific to healthcare. I'm extending them into modern AI and machine learning, and the projects on this site are where that shows up.
 
 ## How I work
 

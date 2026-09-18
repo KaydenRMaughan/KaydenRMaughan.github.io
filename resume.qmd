@@ -1,10 +1,11 @@
 ---
 title: "Kayden R. Maughan"
 pagetitle: "Resume"
-subtitle: "Data science leader · Healthcare · Causal inference · Forecasting · Applied AI"
+subtitle: "Data science leader · Causal inference · Forecasting · Decision support · Applied AI"
 format:
   html:
     toc: false
+    format-links: false
   typst:
     papersize: us-letter
     margin:
@@ -34,7 +35,7 @@ Data science leader with experience across statistics, machine learning, healthc
 ## Areas of expertise
 
 - **Methods:** causal inference, forecasting, classification, machine learning, NLP, computer vision, Markov models and multi-touch attribution
-- **Healthcare and operations:** hospital census and patient flow, discharge and post-acute planning, market and growth strategy, clinical finance
+- **Domain experience:** hospital census and patient flow, discharge and post-acute planning, market and growth strategy, clinical finance
 - **Leadership:** technical direction, team leadership and mentoring, stakeholder alignment, executive communication
 - **Tools and languages:** Python, R, SQL, Snowflake; fluent in Spanish
 
