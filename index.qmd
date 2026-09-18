@@ -1,23 +1,58 @@
 ---
-title: "Kayden R. Maughan"
-about:
-  template: solana
-  image: images/kade.png
-  image-shape: round
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/KaydenRMaughan
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/kayden-maughan/
-    - icon: bar-chart-line
-      text: Kaggle
-      href: https://www.kaggle.com/kademaughan
+pagetitle: "Kayden R. Maughan · Data Science Leader"
+page-layout: full
+title-block-style: none
 ---
 
-I build trustworthy data science and AI systems for healthcare, operations, education, and decision intelligence.
+```{=html}
+<section class="hero">
+  <div class="hero-grid">
+    <div class="hero-copy">
+      <p class="hero-eyebrow">Kayden R. Maughan · Data science leader</p>
+      <h1 class="hero-title">I build <span class="accent">trustworthy data science and AI systems</span> for healthcare, operations, education, and decision intelligence.</h1>
+      <p class="hero-lede">Biostatistician by training, health-system data science leader by trade. I turn rigorous analysis (causal inference, forecasting, decision support) into decisions leaders act on.</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary btn-lg" href="consulting.html">Work with me</a>
+        <a class="btn btn-outline-primary btn-lg" href="resume.html">View resume</a>
+      </div>
+      <p class="hero-links"><a href="https://github.com/KaydenRMaughan">GitHub</a> · <a href="https://www.linkedin.com/in/kayden-maughan/">LinkedIn</a> · <a href="https://www.kaggle.com/kademaughan">Kaggle</a></p>
+    </div>
+    <div class="hero-photo">
+      <img src="images/kade.png" alt="Portrait of Kayden R. Maughan">
+    </div>
+  </div>
 
-My background is in causal inference, forecasting, and healthcare operations analytics. The projects here extend that into modern AI and machine learning.
+  <div class="proof">
+    <div class="proof-item">
+      <span class="proof-num">50+</span>
+      <span class="proof-label">hospitals and 1,000+ clinics in the health system where I lead data science</span>
+    </div>
+    <div class="proof-item">
+      <span class="proof-num">4</span>
+      <span class="proof-label">data scientists I lead, staying hands-on as a player-coach</span>
+    </div>
+    <div class="proof-item">
+      <span class="proof-num">180-bed</span>
+      <span class="proof-label">hospital expansion I influenced with market analytics and storytelling</span>
+    </div>
+  </div>
+</section>
 
-[See projects](projects/index.qmd) · [Work with me](consulting.qmd)
+<section class="value">
+  <h2>What that looks like in practice</h2>
+  <div class="value-grid">
+    <div class="value-card">
+      <h3>Forecasts planners trust</h3>
+      <p>Production-grade forecasting for financial, operational, and utilization planning.</p>
+    </div>
+    <div class="value-card">
+      <h3>Drivers, not correlations</h3>
+      <p>A causal inference engine that identifies and ranks the drivers of quality and operational performance.</p>
+    </div>
+    <div class="value-card">
+      <h3>Decisions leaders act on</h3>
+      <p>Decision support and clear storytelling that turned analysis into a hospital-scale decision.</p>
+    </div>
+  </div>
+</section>
+```

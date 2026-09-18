@@ -12,8 +12,6 @@ website:
         text: Home
       - href: projects/index.qmd
         text: Projects
-      - href: writing/index.qmd
-        text: Writing
       - href: about.qmd
         text: About
       - href: consulting.qmd
@@ -24,10 +22,11 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/kayden-maughan/
   page-footer:
-    center: "© 2026 Kayden R. Maughan · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Kayden R. Maughan · Views are my own · Built with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme:
       light: flatly
       dark: darkly
+    css: styles.css

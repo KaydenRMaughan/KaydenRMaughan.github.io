@@ -9,7 +9,6 @@ Personal portfolio site: data science and AI work across healthcare, operations,
 | `_quarto.yml` | Site config: navbar, theme, footer |
 | `index.qmd` | Home |
 | `projects/` | Project listing and one page per finished project |
-| `writing/` | Writing listing; posts in `writing/posts/` |
 | `about.qmd` | About and resume |
 | `consulting.qmd` | Consulting and contact |
 | `images/` | Site images |
