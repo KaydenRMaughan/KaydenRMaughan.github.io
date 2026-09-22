@@ -1,0 +1,11 @@
+---
+title: "Page not found"
+description: "This page doesn't exist."
+pagetitle: "Page not found"
+---
+
+That page doesn't exist, or it moved.
+
+- [Home](index.qmd)
+- [About](about.qmd)
+- [Consulting](consulting.qmd)

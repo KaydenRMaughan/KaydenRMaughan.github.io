@@ -1,31 +1,26 @@
 ---
 title: "Consulting"
+description: "Exploring part-time analytics work with organizations that have data but no dedicated analyst — a conversation, not a pitch."
 ---
 
-I help organizations move from data products to decision products: analyses and tools that change what leaders decide, not just what they see.
+I'm exploring part-time data science and analytics work outside my full-time role, and I'm doing that by having conversations first, not by selling a package.
 
-## What I help with
+## Who I want to talk to
 
-**Decision-focused analytics.** Statistics, machine learning, and critical thinking applied to business problems at four levels:
+Organizations, in any industry, that have data — in spreadsheets, an ERP, a CRM, or wherever it lives — but no dedicated data analyst or data scientist to make sense of it. That's the situation I know best, from the outside now and the inside for years: working out which decisions actually matter, what the data can and can't say, and building the first useful analysis, automation, or tool.
 
-- **Descriptive:** displaying the data and discovering trends
-- **Diagnostic:** understanding key drivers, examining differences, and estimating impact
-- **Predictive:** forecasting future trends and estimating likelihoods
-- **Prescriptive:** providing recommendations and planning scenarios
+## What I bring
 
-**Automated analysis and reporting.** Scripted solutions in R, Python, and SQL that replace repetitive manual analysis and reporting.
+- **Decision-focused analytics.** Statistics and machine learning applied to a real decision, not analysis for its own sake: descriptive, diagnostic, predictive, and prescriptive work, in that order of maturity.
+- **Automation over repetition.** Replacing manual, spreadsheet-driven reporting with scripted, reproducible analysis in Python, R, or SQL.
+- **Interactive tools, not static reports.** Dashboards and small applications (Streamlit, R Shiny) that let people explore a question instead of reading a slide.
+- **Judgment on the method.** Knowing when a simple baseline is enough and when causal inference, forecasting, or a more advanced model earns its complexity.
 
-**Interactive data storytelling.** Turning intricate analyses into interactive, compelling narratives and visualizations for decision-makers, built with R Shiny and Streamlit.
+I've applied this in healthcare — forecasting, causal inference, decision support — and I'm building public, domain-shifted versions of that same skill set in personal finance, real estate, agriculture, and other areas, so the work here isn't tied to one industry.
 
-**Training and education.** Building critical thinking, problem solving, and statistical skills for technical and non-technical teams.
+## Where things stand
 
-## Who I work with
-
-Small and mid-size organizations that already have data infrastructure and want to move toward advanced analytics and decision-making products.
-
-## How I work
-
-Clear deliverables, agreed timelines, and frequent, plain-language communication.
+I'm not taking paid engagements yet. I'm validating whether part-time consulting is a good fit for me and a good fit for the organizations I'd want to work with, before I build anything to sell. If you're open to a 20-minute conversation about how your organization uses data today, I'd genuinely value it — no pitch, no follow-up sales email.
 
 ## Get in touch
 

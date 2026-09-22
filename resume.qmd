@@ -1,6 +1,7 @@
 ---
 title: "Kayden R. Maughan"
 pagetitle: "Resume"
+description: "Resume: data science leader in causal inference, forecasting, decision support, and applied AI."
 subtitle: "Data science leader · Causal inference · Forecasting · Decision support · Applied AI"
 format:
   html:

@@ -1,5 +1,6 @@
 ---
 pagetitle: "Data Science Leader"
+description: "A data science leader using statistics and machine learning to uncover insights and forecast what's ahead."
 page-layout: full
 title-block-style: none
 ---
@@ -10,7 +11,7 @@ title-block-style: none
     <div class="hero-copy">
       <p class="hero-eyebrow">Kayden R. Maughan · Data science leader</p>
       <h1 class="hero-title">I build <span class="accent">trustworthy data science and AI systems</span> for healthcare, operations, education, and decision intelligence.</h1>
-      <p class="hero-lede">Biostatistician by training, data science leader by trade. Most of my experience is in healthcare, and the methods travel: I turn rigorous analysis (causal inference, forecasting, decision support) into decisions leaders act on.</p>
+      <p class="hero-lede">Biostatistician by training, data science leader by trade. I use data, statistics, and machine learning to uncover what's really driving outcomes and forecast what's ahead — most of my experience is in healthcare, and the methods travel.</p>
       <div class="hero-cta">
         <a class="btn btn-primary btn-lg" href="consulting.html">Work with me</a>
         <a class="btn btn-outline-primary btn-lg" href="resume.html">View resume</a>
@@ -18,7 +19,7 @@ title-block-style: none
       <p class="hero-links"><a href="https://github.com/KaydenRMaughan">GitHub</a> · <a href="https://www.linkedin.com/in/kayden-maughan/">LinkedIn</a> · <a href="https://www.kaggle.com/kademaughan">Kaggle</a></p>
     </div>
     <div class="hero-photo">
-      <img src="images/kade.png" alt="Portrait of Kayden R. Maughan">
+      <img src="images/kade.jpg" alt="Portrait of Kayden R. Maughan">
     </div>
   </div>
 

@@ -4,16 +4,18 @@ project:
 
 website:
   title: "Kayden R. Maughan"
-  description: "Trustworthy data science and AI systems for healthcare, operations, education, and decision intelligence."
+  description: "A data science leader using statistics and machine learning to uncover insights and forecast what's ahead."
   site-url: https://kaydenrmaughan.github.io
+  image: images/kade.jpg
+  favicon: images/favicon.png
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: projects/index.qmd
-        text: Projects
-      - href: writing/index.qmd
-        text: Writing
+      # Projects and Writing are hidden until the first project ships (staying
+      # unlinked in the nav avoids an empty tab); files remain in place.
       - href: about.qmd
         text: About
       - href: consulting.qmd

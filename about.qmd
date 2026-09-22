@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Data science leader in healthcare; background, how I work, and what I do outside the job."
 ---
 
 I'm a data science leader working across statistics, machine learning, healthcare strategy, and operations. I lead a team of four data scientists and stay hands-on as a player-coach: I set direction, mentor the team, and turn technically demanding work into clear, useful decisions.
@@ -11,6 +12,10 @@ Most of my experience is in healthcare, where I've worked on forecasting, causal
 - **Insight that influences decisions.** Creative statistical approaches, automated reporting, and interactive data stories aimed at strategic problem solving.
 - **Clear commitments.** Defined deliverables and timelines, with frequent, plain-language communication.
 - **Teaching as part of the job.** I mentor data scientists at work and teach statistics and data analysis at the university level.
+
+## Beyond work
+
+Outside my day job I point the same skills at things I'm personally curious about: sports (March Madness brackets, in-game decisions), trivia (I'm building a study system for a Jeopardy! audition), personal finance and real estate, and — through family in the industry — agriculture. Some of that shows up here as projects; most of it is just how I spend my curiosity.
 
 ## More
 
