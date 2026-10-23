@@ -1,8 +1,8 @@
 ---
 title: "Kayden R. Maughan"
 pagetitle: "Resume"
-description: "Resume: data science leader in causal inference, forecasting, decision support, and applied AI."
-subtitle: "Data science leader · Causal inference · Forecasting · Decision support · Applied AI"
+description: "Resume: healthcare data science leader in causal inference, forecasting, machine learning and team leadership."
+subtitle: "Data science leader · Causal inference · Forecasting · Machine learning · Team leadership"
 format:
   html:
     toc: false
@@ -16,7 +16,7 @@ format:
 ---
 
 ::: {.content-visible when-format="html"}
-[kaydenrmaughan.github.io](https://kaydenrmaughan.github.io) · [linkedin.com/in/kayden-maughan](https://www.linkedin.com/in/kayden-maughan/) · [github.com/KaydenRMaughan](https://github.com/KaydenRMaughan)
+Kennewick, WA · [kaydenrmaughan.github.io](https://kaydenrmaughan.github.io) · [linkedin.com/in/kayden-maughan](https://www.linkedin.com/in/kayden-maughan/) · [github.com/KaydenRMaughan](https://github.com/KaydenRMaughan)
 
 [Download PDF](resume.pdf)
 :::
@@ -24,60 +24,64 @@ format:
 ::: {.content-visible when-format="typst"}
 ```{=typst}
 #align(center)[
-  #link("https://kaydenrmaughan.github.io")[kaydenrmaughan.github.io] · #link("https://www.linkedin.com/in/kayden-maughan/")[linkedin.com/in/kayden-maughan] · #link("https://github.com/KaydenRMaughan")[github.com/KaydenRMaughan]
+  Kennewick, WA · #link("https://kaydenrmaughan.github.io")[kaydenrmaughan.github.io] · #link("https://www.linkedin.com/in/kayden-maughan/")[linkedin.com/in/kayden-maughan] · #link("https://github.com/KaydenRMaughan")[github.com/KaydenRMaughan]
 ]
 ```
 :::
 
 ## Summary
 
-Data science leader with experience across statistics, machine learning, healthcare strategy, operations, finance, and clinical research. I lead a team of four data scientists in a health system of 50+ hospitals and 1,000+ clinics, and stay hands-on in forecasting, causal inference, and decision support. I turn complex analyses into clear recommendations that leaders act on.
+Healthcare data science leader who enables teams and executives to act with confidence, turning rigorous problem solving into actionable insight. Eight years of diagnostic, predictive and prescriptive work that reveals what's driving outcomes, what's coming and what to do about it, often by adapting methods from other industries. Leads a four-person team at a 50+ hospital, 1,000+ clinic system and is shaping a function where data scientists work at the top of their license.
 
 ## Areas of expertise
 
-- **Methods:** causal inference, forecasting, classification, machine learning, NLP, computer vision, Markov models and multi-touch attribution
-- **Domain experience:** hospital census and patient flow, discharge and post-acute planning, market and growth strategy, clinical finance
-- **Leadership:** technical direction, team leadership and mentoring, stakeholder alignment, executive communication
-- **Tools and languages:** Python, R, SQL, Snowflake; fluent in Spanish
+- **Methods:** statistical modeling, causal inference, experimentation and quasi-experimental design (AIPW, interrupted time series), hierarchical forecasting (Prophet), predictive machine learning (XGBoost, LightGBM), Markov models, multi-touch attribution, discrete-event simulation
+- **Model governance and responsible AI:** model evaluation, validation, monitoring and drift, fairness review, vendor model assessment, lifecycle management
+- **Leadership:** data science and advanced analytics strategy, portfolio prioritization, stakeholder alignment, team design, hiring, coaching, executive communication
+- **Tools:** Python, R, SQL, Snowflake, Streamlit, Git, Azure DevOps, LLM tools
 
 ## Experience
 
 ### Providence
 
-**Data Science Manager** · Feb 2026 – present
+**Manager, Data Science** · Feb 2026 – present
 
-- Lead four data scientists delivering predictive, prescriptive, and diagnostic analytics across 50+ hospitals and 1,000+ clinics.
-- Set technical direction, own delivery, and align stakeholders; mentor the team and raise analytical fluency among technical and non-technical partners.
-- Contribute hands-on to forecasting models, causal inference frameworks, AI applications, and decision support systems.
+- Led a 3-month listening tour with 35 leaders, who saw the team as hard to reach and too theoretical. Rebuilt intake, peer review and capacity planning so data science reaches the organization's highest-priority decisions, and designed a liaison model launching in 2027.
+- Assembled the team around complementary strengths, not more of the same: hired an MLOps data engineer and an NLP PhD turned delivery lead so models move from analysis to production.
+- Steer a portfolio of 8–12 concurrent predictive, prescriptive and decision-support projects across strategy, operations, finance and clinical service lines.
+- Introduced methods from other fields, including queueing theory for capacity, and safeguarded R&D time that produced a working discrete-event simulation prototype for patient flow.
 
 **Senior Data Scientist / Biostatistician** · Aug 2023 – Feb 2026
 
-- Built a causal inference engine and platform that scales the identification and ranking of key drivers of quality and operational performance.
-- Developed production-grade forecasting infrastructure for financial, operational, and utilization planning.
-- Deployed classification models estimating post-acute care destination to improve discharge planning.
-- Applied AI summarization to time-series patterns to speed operational decision making.
+- Created a causal inference platform (AIPW, interrupted time series) that ranks what is driving quality and operational outcomes at system scale. It pinpointed what shortens length of stay, improves depression treatment response and speeds new-patient scheduling, and confirmed that nursing communication work raised patient satisfaction.
+- Delivered 90-day forecasts for about 30 financial, operational and utilization metrics that anchor system planning, using hierarchical Prophet models with regressors for scheduled procedures, budget and workforce.
+- Deployed a post-acute care destination model (XGBoost, LightGBM) through Epic for case managers. When Epic's own version won out, elevated workflow fit and adoption to equal footing with accuracy in our build-or-buy calls.
+- Independently validated Epic's sepsis model for accuracy, calibration and subgroup bias on Providence patients before the organization relied on it.
 
 ### University of Utah Health
 
-**Data Scientist** · Sep 2021 – Aug 2023
+**Data Scientist** · Sep 2020 – Aug 2023
 
-- Influenced leadership to relocate a planned ambulatory clinic and expand into a 180-bed hospital, using market analytics and strategic storytelling.
-- Reimagined patient flow and downstream margin modeling with multi-touch attribution, Markov chains, and game theory.
-- Predicted overnight and ICU admission, readmission, length of stay, and discharge disposition to inform hospital census.
+- Persuaded leadership, through market analytics and executive storytelling, to relocate a planned clinic and expand it into a hospital campus, now the $855M Eccles Health Campus.
+- Adapted marketing and retail methods: multi-touch attribution, Markov chains and game theory to value each step of a patient's journey and its downstream margin, and retail gravity models to estimate how far patients will travel for care.
+- Engineered predictive models for admission, ICU, readmission, length of stay and discharge disposition that informed census planning.
 
-**Senior Strategy Analyst / Strategy Analyst** · May 2018 – Sep 2021
+**Senior Strategy Analyst / Strategy Analyst** · May 2018 – Sep 2020
 
-- Served as an internal consultant to leaders on growth, access, market strategy, and clinical finance.
+- Advised health-system leaders as an internal consultant on growth, access, market strategy and clinical finance.
 
 ## Teaching
 
-- **University of Utah**, Adjunct Professor (2025, one semester): Data Mining, MS in Business Analytics
-- **Brigham Young University**, Adjunct Professor (2022 – 2025): Statistics (undergraduate) and Data Analysis (MPA)
-- **Western Governors University**, Subject Matter Expert (2024 – present)
+- **Adjunct Professor**, University of Utah (Data Mining, MS Business Analytics, 2025) and Brigham Young University (statistics, 2022–2025)
+- **Subject Matter Expert**, Western Governors University (2024–present)
+- **Community of practice**, University of Utah Health: led cross-team upskilling in statistical learning, Python and R
 
 ## Education and certifications
 
 - **MS, Business Analytics**, University of Utah (2019)
 - **BS, Biostatistics**, Brigham Young University (2018)
-- **AI Engineering Certificate**, IBM (2020)
-- **Machine Learning for Trading**, Google Cloud and New York Institute of Finance (2021)
+- **AI Engineering Professional Certificate**, IBM (2020)
+
+## Service and languages
+
+- **Volunteer missionary**, coastal Ecuador (2014 – 2016): led teams of 16–20 volunteers; fluent in Spanish

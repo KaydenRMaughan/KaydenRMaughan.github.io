@@ -1,6 +1,6 @@
 ---
 pagetitle: "Data Science Leader"
-description: "A data science leader using statistics and machine learning to uncover insights and forecast what's ahead."
+description: "Healthcare data science leader: finding what's driving outcomes and forecasting what's ahead."
 page-layout: full
 title-block-style: none
 ---
@@ -10,13 +10,13 @@ title-block-style: none
   <div class="hero-grid">
     <div class="hero-copy">
       <p class="hero-eyebrow">Kayden R. Maughan · Data science leader</p>
-      <h1 class="hero-title">I build <span class="accent">trustworthy data science and AI systems</span> for healthcare, operations, education, and decision intelligence.</h1>
-      <p class="hero-lede">Biostatistician by training, data science leader by trade. I use data, statistics, and machine learning to uncover what's really driving outcomes and forecast what's ahead — most of my experience is in healthcare, and the methods travel.</p>
+      <h1 class="hero-title">I lead healthcare data science: <span class="accent">finding what's driving outcomes and forecasting what's ahead.</span></h1>
+      <p class="hero-lede">Biostatistician by training, data science leader by trade. I manage a data science team at Providence and start every project with the decision it should inform. Most of my work is in healthcare, and the methods travel.</p>
       <div class="hero-cta">
-        <a class="btn btn-primary btn-lg" href="consulting.html">Work with me</a>
-        <a class="btn btn-outline-primary btn-lg" href="resume.html">View resume</a>
+        <a class="btn btn-primary btn-lg" href="resume.html">View resume</a>
+        <a class="btn btn-outline-primary btn-lg" href="https://www.linkedin.com/in/kayden-maughan/">LinkedIn</a>
       </div>
-      <p class="hero-links"><a href="https://github.com/KaydenRMaughan">GitHub</a> · <a href="https://www.linkedin.com/in/kayden-maughan/">LinkedIn</a> · <a href="https://www.kaggle.com/kademaughan">Kaggle</a></p>
+      <p class="hero-links"><a href="https://github.com/KaydenRMaughan">GitHub</a> · <a href="https://www.kaggle.com/kademaughan">Kaggle</a> · <a href="about.html">About me</a></p>
     </div>
     <div class="hero-photo">
       <img src="images/kade.jpg" alt="Portrait of Kayden R. Maughan">
@@ -37,8 +37,8 @@ title-block-style: none
       <p>Causal methods that separate what moves an outcome from what merely moves with it.</p>
     </div>
     <div class="value-card">
-      <h3>Decisions leaders act on</h3>
-      <p>Decision support and clear storytelling that move leaders from analysis to action.</p>
+      <h3>Teams that do their best work</h3>
+      <p>Hiring, coaching, and ways of working that let data scientists work at the top of their license.</p>
     </div>
   </div>
 </section>

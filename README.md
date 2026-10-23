@@ -1,6 +1,6 @@
 # KaydenRMaughan.github.io
 
-Personal portfolio site: data science and AI work across healthcare, operations, education, and decision intelligence. Built with [Quarto](https://quarto.org) and published with GitHub Pages at <https://kaydenrmaughan.github.io>.
+Personal site: healthcare data science leadership, resume, and selected projects. Built with [Quarto](https://quarto.org) and published with GitHub Pages at <https://kaydenrmaughan.github.io>.
 
 ## Structure
 
@@ -10,8 +10,9 @@ Personal portfolio site: data science and AI work across healthcare, operations,
 | `index.qmd` | Home |
 | `projects/` | Project listing and one page per finished project |
 | `writing/` | Writing listing; posts in `writing/posts/` |
-| `about.qmd` | About and resume |
-| `consulting.qmd` | Consulting and contact |
+| `about.qmd` | About |
+| `resume.qmd` | Resume (HTML page plus a Typst-rendered PDF) |
+| `consulting.qmd` | Consulting page, currently unlinked from the nav |
 | `images/` | Site images |
 
 ## Local development
