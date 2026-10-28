@@ -16,7 +16,7 @@ Organizations, in any industry, that have data — in spreadsheets, an ERP, a CR
 - **Interactive tools, not static reports.** Dashboards and small applications (Streamlit, R Shiny) that let people explore a question instead of reading a slide.
 - **Judgment on the method.** Knowing when a simple baseline is enough and when causal inference, forecasting, or a more advanced model earns its complexity.
 
-I've applied this in healthcare — forecasting, causal inference, decision support — and I'm building public, domain-shifted versions of that same skill set in personal finance, real estate, agriculture, and other areas, so the work here isn't tied to one industry.
+I've applied this in healthcare — forecasting, causal inference, decision support — and I publish projects outside healthcare as they're finished, so the work here isn't tied to one industry.
 
 ## Where things stand
 

@@ -46,7 +46,7 @@ Healthcare data science leader who enables teams and executives to act with conf
 
 **Manager, Data Science** · Feb 2026 – present
 
-- Led a 3-month listening tour with 35 leaders, who saw the team as hard to reach and too theoretical. Rebuilt intake, peer review and capacity planning so data science reaches the organization's highest-priority decisions, and designed a liaison model launching in 2027.
+- Led a 3-month listening tour with 30 leaders, who saw the team as hard to reach and too theoretical. Rebuilt intake, peer review and capacity planning so data science reaches the organization's highest-priority decisions, and designed a liaison model launching in 2027.
 - Assembled the team around complementary strengths, not more of the same: hired an MLOps data engineer and an NLP PhD turned delivery lead so models move from analysis to production.
 - Steer a portfolio of 8–12 concurrent predictive, prescriptive and decision-support projects across strategy, operations, finance and clinical service lines.
 - Introduced methods from other fields, including queueing theory for capacity, and safeguarded R&D time that produced a working discrete-event simulation prototype for patient flow.
